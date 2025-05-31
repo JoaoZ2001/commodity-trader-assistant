@@ -92,7 +92,7 @@ All feedback, improvements, and ideas are highly appreciated!
 
 ## 🌐 Connect with Me
 
-- GitHub: [@JoaoZ2001](https://github.com/seu-usuario)  
+- GitHub: [@JoaoZ2001](https://github.com/JoaoZ2001)  
 - LinkedIn: [@João Vitor Zimmermann](https://www.linkedin.com/in/joaovzimmermann)
 
 If you liked this project, consider giving it a ⭐ to help others find it!
