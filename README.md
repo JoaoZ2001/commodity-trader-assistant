@@ -81,7 +81,21 @@ Follow these steps:
 Below is a quick demonstration of the Commodities Trade Application in action.  
 It showcases the main features including price prediction, technical indicators, and AI agent insights — all accessible through the Streamlit interface.
 
-![Commodities Trade App Demo](path/to/your/demo.gif)
+[![Commodities Trade App Demo](path/to/your/demo.gif)](https://github.com/user-attachments/assets/c9291bbf-d15d-4ee2-9d87-35f008b4691d)
+
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have suggestions to improve this project, feel free to share!
+All feedback, improvements, and ideas are highly appreciated!
+
+
+## 🌐 Connect with Me
+
+- GitHub: [@JoaoZ2001](https://github.com/seu-usuario)  
+- LinkedIn: [@João Vitor Zimmermann](https://www.linkedin.com/in/joaovzimmermann)
+
+If you liked this project, consider giving it a ⭐ to help others find it!
 
 
 
